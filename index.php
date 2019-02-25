@@ -1,2 +1,3 @@
 <?php
-phpinfo();
+
+echo " u can do it sue";
